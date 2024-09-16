@@ -1,7 +1,7 @@
 /* styles.css */
 body {
     /* Set a gradient background from purple to teal */
-    background: linear-gradient(to right, #bfbac2, #5e5d60, #d0cad4, #6b6e6e);
+    background: linear-gradient(to right, #bfbac2, #666668, #d0cad4, #6b6e6e);
     font-family: Arial, sans-serif;
     /* Sets a clean, modern font for the body text */
     color: white;
